@@ -1,1 +1,1 @@
-(check_t_invest.py is a Python source file, which should not be ignored)
+Nothing needs to be added to .gitignore since only a Python source file (`check_t_invest_api.py`) was added, and no build artifacts, dependencies, or temporary files were included in the changes.
